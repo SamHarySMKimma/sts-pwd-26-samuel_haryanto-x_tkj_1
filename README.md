@@ -15,10 +15,15 @@ Menjadi aset nasional dalam bentuk jaringan ritel waralaba yang unggul dalam per
 ### Misi
 1. Melayani serta memberi solusi bagi masyarakat dalam memenuhi kebutuhan produk maupun jasa dengan mudah dan hemat.
 
-### Produk atau layanan utama
-1. produk
-2. layanan
-3. produk
+### Produk 
+1. Point Coffee
+2. Say Bread
+3. Mr. Bread
+
+### Pelayanan
+1. Klik Indomaret
+2. Indopaket
+3. i.saku
 
 ### Kontak perusahaan
  * Layanan Pelanggan : 1500 280
@@ -37,7 +42,7 @@ Menjadi aset nasional dalam bentuk jaringan ritel waralaba yang unggul dalam per
 ### Daftar sumber referensi 
 - https://www.indomaret.co.id/tentang-kami/sejarah-kami/
 - https://www.indomaret.co.id/tentang-kami/visi-budaya-perusahaan/
-
+- https://www.indomaret.co.id/produk-kami/
 
 ### pernyataan integritas akademik (lihat Bagian E).
 
