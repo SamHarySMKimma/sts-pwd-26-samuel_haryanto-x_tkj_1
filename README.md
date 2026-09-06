@@ -43,6 +43,7 @@ Menjadi aset nasional dalam bentuk jaringan ritel waralaba yang unggul dalam per
 - https://www.indomaret.co.id/tentang-kami/sejarah-kami/
 - https://www.indomaret.co.id/tentang-kami/visi-budaya-perusahaan/
 - https://www.indomaret.co.id/produk-kami/
+- https://www.indomaret.co.id/layanan/
 
 ### pernyataan integritas akademik (lihat Bagian E).
 
