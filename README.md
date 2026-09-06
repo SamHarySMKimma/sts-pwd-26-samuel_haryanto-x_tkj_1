@@ -52,4 +52,4 @@ Saya menyatakan bahwa riset dan kode ini saya kerjakan sendiri. AI hanya digunak
 Saya ada pakai AI untuk mencari arti kata bahasa indonesia, dan kesamaan artinya antara kedua kata
 
 ## Link menuju index.html 
-tolong add linknya nanti
+[index.html](https://github.com/SamHarySMKimma/sts-pwd-26-samuel_haryanto-x_tkj_1/blob/main/index.html) (cuman kodenya bukan tampilannya)
