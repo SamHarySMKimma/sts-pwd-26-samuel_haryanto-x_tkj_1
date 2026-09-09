@@ -47,9 +47,7 @@ Menjadi aset nasional dalam bentuk jaringan ritel waralaba yang unggul dalam per
 
 ### pernyataan integritas akademik (lihat Bagian E).
 
-Saya menyatakan bahwa riset dan kode ini saya kerjakan sendiri. AI hanya digunakan sebagai bantuan penjelasan konsep, bukan untuk menghasilkan jawaban akhir secara langsung.
-
-Saya ada pakai AI untuk mencari arti kata bahasa indonesia, dan kesamaan artinya antara kedua kata
+Saya ada pakai AI untuk mencari arti kata bahasa indonesia, dan kesamaan artinya antara kedua kata. Tidak ada penggunaan AI dalam pengerjaan tugas ini.
 
 ## Link menuju index.html 
 [index.html](https://github.com/SamHarySMKimma/sts-pwd-26-samuel_haryanto-x_tkj_1/blob/main/index.html) (cuman kodenya bukan tampilannya)
